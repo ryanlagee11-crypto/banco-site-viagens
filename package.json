@@ -1,0 +1,25 @@
+{
+  "name": "banco-site-viagens",
+  "version": "1.0.0",
+  "description": "",
+  "homepage": "https://github.com/ryanlagee11-crypto/banco-site-viagens#readme",
+  "bugs": {
+    "url": "https://github.com/ryanlagee11-crypto/banco-site-viagens/issues"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/ryanlagee11-crypto/banco-site-viagens.git"
+  },
+  "license": "ISC",
+  "author": "Ryan",
+  "type": "module",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "dependencies": {
+    "cors": "^2.8.6",
+    "express": "^5.2.1",
+    "mysql2": "^3.23.3"
+  }
+}
